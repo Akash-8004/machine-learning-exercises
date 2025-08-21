@@ -35,9 +35,9 @@ Clone this repository and open in **Jupyter Lab / Notebook**:
 git clone https://github.com/Akash-8004/machine-learning-exercises.git
 cd machine-learning-exercises
 jupyter lab
+```
 
-
-## 📈 Goals
+##  📈 Goals
 
 Build a solid foundation in Machine Learning
 
